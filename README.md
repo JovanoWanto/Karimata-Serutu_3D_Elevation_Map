@@ -11,5 +11,5 @@ Tools Used:
 
 -Qgis2threejs Plugin
 
-![3D Map Preview](https://github.com/JovanoWanto/Karimata-Serutu_3D_Elevation_Map/blob/main/Karimata-Serutu_Interactive_3D_Map.html)
+![3D Map Preview](Map_Preview.png)
 
