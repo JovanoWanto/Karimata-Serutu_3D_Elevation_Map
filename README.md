@@ -7,9 +7,9 @@ https://r.search.yahoo.com/_ylt=Awrx.5UFHQdpAAIAkLvLQwx.;_ylu=Y29sbwNzZzMEcG9zAz
 
 Tools Used:
 
--QGIS
+ -QGIS
 
--Qgis2threejs Plugin
+ -Qgis2threejs Plugin
 
 3D Map Preview:
 
